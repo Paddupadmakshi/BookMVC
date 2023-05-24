@@ -52,7 +52,7 @@
 				
 				<div class="form-group">
 					<label>Date</label>
-					<input type="text" name="characters" value="${book.date}" class="form-control">
+					<input type="text" name="date" value="${book.date}" class="form-control">
 				</div>
 				
 				<div class="form-group">
